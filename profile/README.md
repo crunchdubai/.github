@@ -29,7 +29,12 @@
 
 ### Profile concept that bring us 1m+ unique visitors
 
+Example: EMAAR CEO Mohamed Ali Alabbar 
+
 ![emaar-Mohamed-Ali-Alabbar-crunch-dubai-profile](https://github.com/user-attachments/assets/78c18b9d-1f02-4a8b-be60-8bdb678494fa)
+
+
+
 
 CONCEPTS IN PROGRESS!
 
