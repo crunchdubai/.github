@@ -1,11 +1,12 @@
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=crunchdubai&label=🇦🇪->🦄->👀&color=red&style=flat-square" alt="crunchdubai github profil visit" /> on <a href="https://crunchdubai.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Crunch/DUBAI - Dubai StartUPs and People<a/>, founded by Dubai Founders</h1>
 
-
 <img src="https://raw.githubusercontent.com/crunchdubai/.github/main/profile/Youtube-cover-crunch-DUBAI.jpg" alt="Aleksei Dolgikh" width="100%" height="100%">
 
 ### Key Points Of Aleksei Dolgikh who's MAKING PLATFORMS AVAILABLE AGAIN!
 
 # Book a Meeting with Aleksei Dolgikh
+
+![Aleksei-Dolgikh-Crunch-Dubai](https://github.com/user-attachments/assets/94f9079b-5781-4c42-adcc-4e6d647d659f)
 
 ## Schedule a 15-Minute Meeting with Aleksei Dolgikh
 
@@ -23,6 +24,14 @@
 3. Confirm your appointment
 
 *Note: Times are shown in your local timezone*
+
+## Going though concepts
+
+### Profile concept that bring us 1m+ unique visitors
+
+![emaar-Mohamed-Ali-Alabbar-crunch-dubai-profile](https://github.com/user-attachments/assets/78c18b9d-1f02-4a8b-be60-8bdb678494fa)
+
+CONCEPTS IN PROGRESS!
 
 - Research suggests CrunchDubai.com is active, but enhancing it with modern features could align with your goal of making it "available again."
 - It seems likely that only CrunchDubai.com and CrunchRiyadh.com exist, with others like CrunchCairo.com not found online.
